@@ -23,8 +23,9 @@ To set up and run this project on your local machine, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_name>
+    git clone https://github.com/AnandVG742/Efficiency_Analysis
+       cd AnandVG742/Efficiency_Analysis
+
     ```
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
