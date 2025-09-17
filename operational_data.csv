@@ -1,0 +1,133 @@
+department,staff_on_duty,patients_treated,wait_time_minutes,department_cost,length_of_stay_days
+Emergency,8,55,120,4500,2
+Cardiology,5,25,45,2500,4
+Neurology,4,15,30,1800,5
+Pediatrics,6,35,50,2200,3
+Orthopedics,5,22,25,1600,2
+Surgery,10,30,60,6000,7
+Oncology,5,12,70,3500,8
+Radiology,4,50,15,1200,1
+Internal Medicine,7,40,50,3000,4
+Dermatology,3,20,10,800,1
+Physical Therapy,4,15,20,950,2
+Emergency,7,48,110,4200,2
+Emergency,8,60,135,4800,3
+Cardiology,6,30,55,2800,5
+Cardiology,5,28,48,2700,4
+Neurology,4,18,35,1950,6
+Neurology,3,14,32,1750,5
+Pediatrics,7,40,65,2500,3
+Pediatrics,6,38,58,2350,3
+Orthopedics,5,25,30,1800,2
+Orthopedics,6,28,35,2000,3
+Surgery,9,28,55,5800,6
+Surgery,10,32,62,6200,7
+Oncology,6,15,80,3800,9
+Oncology,5,14,75,3650,8
+Radiology,5,55,18,1350,1
+Radiology,6,60,20,1500,1
+Internal Medicine,8,45,60,3300,5
+Internal Medicine,7,42,55,3150,4
+Dermatology,3,22,12,850,1
+Dermatology,4,25,15,950,2
+Physical Therapy,4,18,25,1000,2
+Physical Therapy,5,20,28,1100,2
+Emergency,8,58,125,4700,3
+Cardiology,6,32,50,2900,4
+Neurology,5,20,40,2100,5
+Pediatrics,7,42,60,2600,4
+Orthopedics,6,30,32,2100,3
+Surgery,10,35,65,6500,8
+Oncology,6,16,85,4000,9
+Radiology,5,58,22,1450,1
+Internal Medicine,8,48,65,3500,5
+Dermatology,4,24,14,900,1
+Physical Therapy,5,22,27,1050,2
+Emergency,7,50,115,4400,2
+Cardiology,5,27,47,2600,4
+Neurology,4,16,33,1850,5
+Pediatrics,6,37,52,2300,3
+Orthopedics,5,24,28,1750,2
+Surgery,9,30,58,6000,6
+Oncology,5,13,72,3600,8
+Radiology,4,52,16,1250,1
+Internal Medicine,7,43,53,3200,4
+Dermatology,3,21,11,820,1
+Physical Therapy,4,16,22,980,2
+Emergency,9,62,145,5000,3
+Cardiology,6,33,58,2950,5
+Neurology,5,20,42,2150,6
+Pediatrics,7,45,68,2700,4
+Orthopedics,6,32,38,2200,3
+Surgery,11,38,70,6800,8
+Oncology,7,18,90,4200,10
+Radiology,6,65,25,1600,2
+Internal Medicine,9,50,70,3600,6
+Dermatology,5,30,18,1100,2
+Physical Therapy,6,25,32,1200,3
+Emergency,8,58,130,4600,3
+Cardiology,5,28,52,2750,4
+Neurology,4,16,35,1850,5
+Pediatrics,6,36,55,2250,3
+Orthopedics,5,24,28,1700,2
+Surgery,10,31,65,6100,7
+Oncology,5,14,78,3600,8
+Radiology,4,55,18,1300,1
+Internal Medicine,7,42,58,3100,4
+Dermatology,3,20,13,850,1
+Physical Therapy,4,16,24,980,2
+Emergency,8,55,120,4500,2
+Cardiology,5,25,45,2500,4
+Neurology,4,15,30,1800,5
+Pediatrics,6,35,50,2200,3
+Orthopedics,5,22,25,1600,2
+Surgery,10,30,60,6000,7
+Oncology,5,12,70,3500,8
+Radiology,4,50,15,1200,1
+Internal Medicine,7,40,50,3000,4
+Dermatology,3,20,10,800,1
+Physical Therapy,4,15,20,950,2
+Emergency,7,48,110,4200,2
+Emergency,8,60,135,4800,3
+Cardiology,6,30,55,2800,5
+Cardiology,5,28,48,2700,4
+Neurology,4,18,35,1950,6
+Neurology,3,14,32,1750,5
+Pediatrics,7,40,65,2500,3
+Pediatrics,6,38,58,2350,3
+Orthopedics,5,25,30,1800,2
+Orthopedics,6,28,35,2000,3
+Surgery,9,28,55,5800,6
+Surgery,10,32,62,6200,7
+Oncology,6,15,80,3800,9
+Oncology,5,14,75,3650,8
+Radiology,5,55,18,1350,1
+Radiology,6,60,20,1500,1
+Internal Medicine,8,45,60,3300,5
+Internal Medicine,7,42,55,3150,4
+Dermatology,3,22,12,850,1
+Dermatology,4,25,15,950,2
+Physical Therapy,4,18,25,1000,2
+Physical Therapy,5,20,28,1100,2
+Emergency,8,58,125,4700,3
+Cardiology,6,32,50,2900,4
+Neurology,5,20,40,2100,5
+Pediatrics,7,42,60,2600,4
+Orthopedics,6,30,32,2100,3
+Surgery,10,35,65,6500,8
+Oncology,6,16,85,4000,9
+Radiology,5,58,22,1450,1
+Internal Medicine,8,48,65,3500,5
+Dermatology,4,24,14,900,1
+Physical Therapy,5,22,27,1050,2
+Emergency,7,50,115,4400,2
+Cardiology,5,27,47,2600,4
+Neurology,4,16,33,1850,5
+Pediatrics,6,37,52,2300,3
+Orthopedics,5,24,28,1750,2
+Surgery,9,30,58,6000,6
+Oncology,5,13,72,3600,8
+Radiology,4,52,16,1250,1
+Internal Medicine,7,43,53,3200,4
+Dermatology,3,21,11,820,1
+Physical Therapy,4,16,22,980,2
